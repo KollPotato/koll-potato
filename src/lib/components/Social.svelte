@@ -9,7 +9,7 @@
     }
 </script>
 
-<div on:click={ handleClick } class="social-card">
+<div on:keydown={ handleClick } class="social-card">
     {#if icon}{@html icon}{/if}
     <p class="link" href="{ link }">{ name }</p>
 </div>
