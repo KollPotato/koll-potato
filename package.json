@@ -21,7 +21,8 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"firebase": "^9.11.0",
+		"@firebase/analytics": "^0.8.3",
+		"firebase": "^9.12.1",
 		"sass": "^1.55.0",
 		"svelte-spa-router": "^3.3.0"
 	}
