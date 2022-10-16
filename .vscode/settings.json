@@ -1,0 +1,11 @@
+{
+    "files.exclude": {
+        ".vscode": true,
+        ".svelte-kit": true,
+        "node_modules": true,
+        ".npmrc": true,
+        // ".gitignore": true,
+        "package-lock.json": true,
+        ".firebaserc": true
+    }
+}
